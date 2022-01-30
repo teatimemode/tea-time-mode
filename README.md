@@ -1,2 +1,2 @@
-# tea-time-mode
+# crazy-heads
 A teatime for everyone 
